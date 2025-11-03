@@ -9,3 +9,6 @@ fips-files/deploy/
 *.pyc
 CMakeUserPresets.json
 #<fips
+
+bin/
+build/
